@@ -1,5 +1,5 @@
 # **aud.io**
-GANs-derived system for converting accents
+GAN-derived system for converting accents
 
 
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/spectrogram.png" width="50%">
