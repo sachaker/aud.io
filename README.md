@@ -22,3 +22,8 @@ GANs-derived system for converting accents
 - https://towardsdatascience.com/voice-translation-and-audio-style-transfer-with-gans-b63d58f61854
 - http://accent.gmu.edu/soundtracks/
 
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
