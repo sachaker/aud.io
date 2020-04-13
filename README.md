@@ -11,7 +11,7 @@ GANs-derived system for converting accents
 
 ```$ git clone https://github.com/sachaker/aud.io```
 
-### Running aud.io
+### Run program
 
 ```$ pip install -r requirements.txt```
 
