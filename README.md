@@ -23,4 +23,5 @@ GANs-derived system for converting accents
 ## Resources
 - https://arxiv.org/pdf/1910.03713.pdf
 - https://towardsdatascience.com/voice-translation-and-audio-style-transfer-with-gans-b63d58f61854
+- http://accent.gmu.edu/soundtracks/
 
