@@ -11,7 +11,11 @@ GANs-derived system for converting accents
 
 ### How-to
 
-```pip install -r requirements.txt```
+```$ git clone https://github.com/sachaker/aud.io```
+
+```$ pip install -r requirements.txt```
+
+```$ python main.py```
 
 ## Authors
 - **Sacha McElligott** — [email](mailto:sacha@nyu.edusubject=[GitHub]%20Source%20Han%20Sans), [LinkedIn](https://www.linkedin.com/in/sacha-mcelligott-136a78a9/), [website](https://sachaker.github.io)
