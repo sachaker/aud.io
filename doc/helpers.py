@@ -36,7 +36,7 @@ def cleanupAudioFiles():
         except:
             print('Could not move file ' + file)
 
-    os.system('python sendSMS.py')  # send SMS to indicate the end
+    sendSMS()  # send SMS to indicate completion
 
 def sendSMS():
     from twilio.rest import Client
