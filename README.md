@@ -7,8 +7,6 @@ GANs-derived system for converting accents
 
 ## Getting started
 
-### [Requirements](https://github.com/sachaker/aud.io/blob/master/requirements.txt)
-
 ### Installation
 
 ### How-to
