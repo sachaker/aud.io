@@ -4,8 +4,6 @@ GANs-derived system for converting accents
 
 ## Getting started
 
-### Dependencies
-
 ### Installation
 
 ### How-to
