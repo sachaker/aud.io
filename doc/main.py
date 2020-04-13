@@ -54,3 +54,4 @@ for file in filenames:
         print('Could not move file ' + file)"""
 
 os.system('python sendSMS.py') # send SMS to indicate the end
+print('all done!')
