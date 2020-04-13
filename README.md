@@ -5,10 +5,7 @@ GANs-derived system for converting accents
 ## Getting started
 
 ### Requirements
-- pip
-- requests
-- twilio
-- beautifulsoup4
+- see requirements.txt
 
 ### Installation
 
