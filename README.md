@@ -9,9 +9,9 @@ GANs-derived system for converting accents
 
 ### Installation
 
-### How-to
-
 ```$ git clone https://github.com/sachaker/aud.io```
+
+### Running aud.io
 
 ```$ pip install -r requirements.txt```
 
