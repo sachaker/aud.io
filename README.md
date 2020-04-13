@@ -5,7 +5,7 @@ GANs-derived system for converting accents
 ## Getting started
 
 ### Requirements
-- see requirements.txt
+- [requirements.txt](https://github.com/sachaker/aud.io/blob/master/requirements.txt)
 
 ### Installation
 
