@@ -1,8 +1,8 @@
-![alt text](https://github.com/sachaker/aud.io/blob/master/data/img/spectrogram.png)
-
-
 # **aud.io**
 GANs-derived system for converting accents
+
+
+![alt text](https://github.com/sachaker/aud.io/blob/master/data/img/spectrogram.png)
 
 
 ## Getting started
