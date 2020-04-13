@@ -5,10 +5,8 @@ import subprocess
 def install(name):
     subprocess.call(['pip', 'install', name])
 
-# Install via pip
-install('requests')
-install('beautifulsoup4')
-install('twilio')
+# Install dependencies via pip
+install('-r requirements.txt')
 
 
 # DATA COLLECTION
