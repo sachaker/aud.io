@@ -12,6 +12,8 @@ GANs-derived system for converting accents
 ### How-to
 ```test code```
 
+```pip install -r requirements.txt```
+
 ## Built with
 - 
 
