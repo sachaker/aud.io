@@ -24,8 +24,8 @@ GAN-derived system for converting accents
 - [Marco Pasini](https://towardsdatascience.com/@marco.pasini)
 
 ## Resources
-[MelGAN-VC paper](https://arxiv.org/pdf/1910.03713.pdf) | [Accent archive](http://accent.gmu.edu/soundtracks/)
---- | ---
+[MelGAN-VC paper](https://arxiv.org/pdf/1910.03713.pdf) | [Accent archive](http://accent.gmu.edu/soundtracks/) | [Accent archive 2](http://festvox.org/cmu_arctic/cmu_arctic/)
+--- | --- | ---
 
 ## License
 
