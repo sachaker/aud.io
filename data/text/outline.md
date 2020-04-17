@@ -6,8 +6,6 @@
 
 ## Broad objectives
 
-- Determine training dataset
-- Determine model to be used
 - Successfully transfer specific voice styles from videos (must be high quality output)
 - Deploy system via an iOS app or web interface
 
@@ -19,6 +17,15 @@
 - [ ]  Interface must be simple and easy-to-use 
 - [ ]  Source code must be well commented and fully functional
 - [ ]  Voice style transfer must be quick (on the order of seconds)
+- [ ]  There must be no commercial or legal conflicts in the resources ultimately used
+
+## Loose roadmap
+1. Determine model
+2. Determine training set
+3. Successfully [project voices into feature spaces](https://github.com/resemble-ai/Resemblyzer) and show distinct clusters (proof-of-concept)
+4. Use vector transformation to convert voices
+5. Build app to allow custom uploads (testing should be fast, training to allow for a new voice style will be long)
+6. Test it out on users of many voice types
 
 ## Relevant links
 #### GitHub repos
