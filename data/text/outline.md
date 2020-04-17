@@ -8,7 +8,7 @@
 
 - Determine training dataset
 - Determine model to be used
-- Successfully transfer specific voice styles (must be high quality output)
+- Successfully transfer specific voice styles from videos (must be high quality output)
 - Deploy system via an iOS app or web interface
 
 ## Checklist for project completion
