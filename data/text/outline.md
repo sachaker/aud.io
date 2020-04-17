@@ -38,7 +38,6 @@
 #### Language datasets
 - https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/
 - https://keithito.com/LJ-Speech-Dataset/
-- https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/
 - https://accent.gmu.edu/
 - https://catalog.ldc.upenn.edu/LDC93S1
 - https://psi.engr.tamu.edu/l2-arctic-corpus/ (commercial restrictions)
