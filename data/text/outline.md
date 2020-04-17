@@ -4,7 +4,7 @@
 
 **Project goal:** To build a modular system that can transfer accents or voice styles to users. The final product will be an iOS app or web interface in which the user uploads a video of themselves, selects an accent or voice style (e.g. Homer Simpson), and the output is the same video but speaking with a new voice.
 
-## Objectives:
+## Objectives
 
 - Determine training dataset
 - Determine model to be used
