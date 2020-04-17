@@ -25,7 +25,8 @@
 3. Successfully [project voices into feature spaces](https://github.com/resemble-ai/Resemblyzer) and show distinct clusters (proof-of-concept)
 4. Use vector transformation to convert voices
 5. Build app to allow custom uploads (testing should be fast, training to allow for a new voice style will be long)
-6. Test it out on users of many voice types
+6. Streamline the generation of new training data (related to 6)
+7. Test it out on users of many voice types
 
 ## Relevant links
 #### GitHub repos
