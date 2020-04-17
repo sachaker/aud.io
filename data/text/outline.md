@@ -37,6 +37,7 @@
 
 #### Language datasets
 - https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/
+- http://www.openslr.org/resources.php
 - https://www.cmswire.com/digital-asset-management/9-voice-datasets-you-should-know-about/
 - https://keithito.com/LJ-Speech-Dataset/
 - https://accent.gmu.edu/
