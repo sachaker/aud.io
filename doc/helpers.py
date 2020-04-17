@@ -1,3 +1,44 @@
+def getSpeakerGender():
+
+    import requests
+    import os
+    import re
+    import pickle
+
+    try:
+        import ssl
+        ssl._create_default_https_context = ssl._create_unverified_context
+    except:
+        pass
+
+    path = '/Users/Guest/PycharmProjects/aud.io/data/audio/wav/accents'
+    accents = os.listdir(path) # get list of all accent names
+
+
+    for accent in accents:
+        try:
+            count = 1 # initialize
+            genders = []
+
+            url = 'https://accent.gmu.edu/browse_language.php?function=find&language='+accent  # this is the url for info for speakers
+            response = requests.get(url)
+            html = response.content.decode("utf-8") # html content as string
+            I = [m.start() for m in re.finditer(accent, html)] # indices of all occurences of accent on page of speaker info
+
+            for idx in I:
+                genders.append(html[idx+len(accent)+len(str(count))+6]) # first letter of listed gender (yes it's ugly, just trust)
+                count += 1
+
+            with open(path + '/' + accent + '/genders', "w") as outfile:
+                outfile.write("\n".join(genders)) # dump genders into text file
+            print('Successfully added info for ' + accent + ' speakers!')
+            print(genders)
+        except:
+            print('Error retrieving speaker info for: ' + accent)
+            continue
+    return None
+
+
 # Downloads accent audio files from database
 def getAudioFiles():
     from bs4 import BeautifulSoup
@@ -36,9 +77,9 @@ def cleanupAudioFiles():
         except:
             print('Could not move file ' + file)
 
-    sendSMS()  # send SMS to indicate completion
+    sendSMS('Your code has finished running!')  # send SMS to indicate completion
 
-def sendSMS():
+def sendSMS(msg):
     from twilio.rest import Client
     import config
 
@@ -46,4 +87,4 @@ def sendSMS():
 
     client.messages.create(from_=config.sendNum,
                            to=config.myNum,
-                           body='Your code has finished running!')
+                           body=msg)

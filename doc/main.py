@@ -8,7 +8,6 @@ def install(name):
 # Install dependencies via pip
 install('-r requirements.txt')
 
-
 # DATA COLLECTION
 # -----------------
 
@@ -20,6 +19,7 @@ try:
     os.mkdir('accents') # make accents folder if it doesn't exist
     helpers.getAudioFiles() # download from database
     helpers.cleanupAudioFiles() # organize by accent
+    helpers.getSpeakerGender() # create txt file of all genders (ordered)
 
 except:
   print('Audio files already downloaded! Moving on...')
