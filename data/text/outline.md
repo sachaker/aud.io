@@ -36,6 +36,7 @@
 - https://github.com/marcoppasini/MelGAN-VC
 
 #### Language datasets
+- https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/
 - https://keithito.com/LJ-Speech-Dataset/
 - https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/
 - https://accent.gmu.edu/
