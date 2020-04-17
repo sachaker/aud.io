@@ -23,6 +23,7 @@
 ## Relevant links
 #### GitHub repos
 - https://github.com/CorentinJ/Real-Time-Voice-Cloning
+- https://github.com/resemble-ai/Resemblyzer
 - https://github.com/andabi/deep-voice-conversion
 - https://github.com/marcoppasini/MelGAN-VC
 
