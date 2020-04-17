@@ -44,6 +44,7 @@
 - http://festvox.org/cmu_arctic/cmu_arctic/packed/ (commercial restrictions)
 
 #### Other
+- https://medium.com/@stasinskipawel/clone-your-voice-in-5-minutes-3aa358b03326
 - https://www.youtube.com/watch?v=-O_hYhToKoA
 - https://www.youtube.com/watch?v=gVehTbi6Ipc
 - https://www.resemble.ai
