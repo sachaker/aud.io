@@ -5,6 +5,22 @@ GAN-derived system for converting accents
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/spectrogram.png" width="50%">
   
 
+## What's new
+
+<img src="https://github.com/sachaker/aud.io/blob/master/data/img/accents.png" width="50%">
+
+> ###### Two clusters for 3,000 voices... I'm sure you can guess what the groups are
+
+• built algorithm to scrape files from accent database (~3k files, ~300 accents)
+
+• projected voices into a feature space in which voices cluster
+
+• trained MelGAN-VC model
+
+• found 6 other models to conduct voice transfer 
+
+• found 8 alternative training datasets
+
 ## Getting started
 
 ### Installation
