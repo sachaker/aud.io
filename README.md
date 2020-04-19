@@ -9,7 +9,7 @@ GAN-derived system for converting accents
 
 • built algorithm to scrape files from accent database (~3k files, ~300 accents)
 
-• projected voices into a feature space in which voices cluster
+• projected voices into a feature space in which they cluster
 
 • trained MelGAN-VC model
 
