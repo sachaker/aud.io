@@ -7,10 +7,6 @@ GAN-derived system for converting accents
 
 ## What's new
 
-<img src="https://github.com/sachaker/aud.io/blob/master/data/img/accents.png" width="50%">
-
-> ###### Each point is a person, each color is an accent, and there are two clusters for 3,000 voices... You got this
-
 • built algorithm to scrape files from accent database (~3k files, ~300 accents)
 
 • projected voices into a feature space in which voices cluster
@@ -20,6 +16,13 @@ GAN-derived system for converting accents
 • found 6 other models to conduct voice transfer 
 
 • found 8 alternative training datasets
+
+&nbsp;
+
+<img src="https://github.com/sachaker/aud.io/blob/master/data/img/accents.png" width="50%">
+
+> ###### Each point is a person, each color is an accent, and there are two clusters for 3,000 voices... You got this
+
 
 ## Getting started
 
