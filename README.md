@@ -21,7 +21,7 @@ GAN-derived system for converting accents
 
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/accents.png" width="50%">
 
-> ###### Each point is a person, each color is an accent, and there are two clusters for 3,000 voices... You got this
+> ###### Each point is a person, each color is an accent, and there are two clusters for 3,000 voices. You got this...
 
 
 ## Getting started
