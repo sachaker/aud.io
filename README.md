@@ -2,23 +2,16 @@
 GAN-derived system for converting accents
 
 
-<video src="data/video/sponge.mp4" width="320" height="200" controls preload></video>
-
-
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/spectrogram.png" width="50%">
+
+
   
 
-## What's new
+## Early results
 
-• built algorithm to scrape files from accent database (~3k files, ~300 accents)
+[Demo (original)](data/cpsyn-sacha_voiceTest.wav)
 
-• projected voices into a feature space in which they cluster
-
-• trained MelGAN-VC model
-
-• found 6 other models to conduct voice transfer 
-
-• found 8 alternative training datasets
+[Demo (converted)](data/sacha_voiceTest-vcto-spongebob.wav)
 
 &nbsp;
 
