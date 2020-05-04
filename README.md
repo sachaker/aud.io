@@ -9,9 +9,9 @@ GAN-derived system for converting accents
 
 ## Early results
 
-[Demo (original)](https://drive.google.com/file/d/1ttzPRLuCqOQ18UhBklyjcbnJ0fczhyCD/view?usp=sharing)
+[Spongebob demo (input)](https://drive.google.com/file/d/1ttzPRLuCqOQ18UhBklyjcbnJ0fczhyCD/view?usp=sharing)
 
-[Demo (converted)](https://drive.google.com/file/d/1WeRR81p8hQmpkIR_mEejysdzDjg66r3y/view?usp=sharing)
+[Spongebob demo (output)](https://drive.google.com/file/d/1WeRR81p8hQmpkIR_mEejysdzDjg66r3y/view?usp=sharing)
 
 &nbsp;
 
