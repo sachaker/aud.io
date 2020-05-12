@@ -1,4 +1,4 @@
-<img src="https://github.com/sachaker/aud.io/blob/master/data/img/pioneer.png" width="5%" align="left"> 
+<img src="https://github.com/sachaker/aud.io/blob/master/data/img/pioneer.png" width="5%" align="right"> 
 
 # **aud.io** 
 
