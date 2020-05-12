@@ -19,7 +19,7 @@ It can learn new output with a day of training and is robust to pretty much any 
 
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/trump_sb.png" width="50%">
 
-[Click me](https://www.youtube.com/watch?v=C7uAwQ_hu5c)
+**[CLICK ME](https://www.youtube.com/watch?v=C7uAwQ_hu5c)**
 
 
 ## Infographic
