@@ -3,7 +3,7 @@
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/name.png" width="15%" margin="0 0 0 0">  
 
 
-> Part of the Pioneer platform (currently #10 in US West, #71 in Global)
+> Competing in the online accelerator Pioneer (currently #10 in US West, #71 in Global)
 
 
 ## Description
