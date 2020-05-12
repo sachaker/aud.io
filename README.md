@@ -1,10 +1,17 @@
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/pioneer.png" width="5%" align="right"> 
 
-# **aud.io** 
+<img src="https://github.com/sachaker/aud.io/blob/master/data/img/name.png" width="15%" margin="0 0 0 0">  
+
 
 > Part of the Pioneer platform (currently #10 in US West, #71 in Global)
 
-This is an automated system for speech-to-speech voice conversion. Want to speak as Spongebob? Donald Trump? Ellen Degeneres and more? Look no further.
+
+## Description
+
+aud.io is an automated system for speech-to-speech voice conversion. Want to speak as Spongebob? Donald Trump? Ellen Degeneres and more? Look no further.
+
+It can learn new output with a day of training and is robust to pretty much any input you throw at it. Its technology is bordering on the frontier of what is out there and is certainly the only readily implementable platform for social purposes.
+
 
 ## Demo
 
@@ -13,9 +20,9 @@ This is an automated system for speech-to-speech voice conversion. Want to speak
 [Click me](https://www.youtube.com/watch?v=C7uAwQ_hu5c)
 
 
-## Project description
+## Infographic
 
-
+<img src="https://github.com/sachaker/aud.io/blob/master/data/img/aud.io%20infographic.png" width="75%">
 
 
 ## Authors
