@@ -10,7 +10,7 @@
 
 aud.io is an automated system for speech-to-speech voice conversion. 
 
-Want to speak as Spongebob? Donald Trump? Ellen Degeneres and more? Neither did we until we tried it :upside_down_face:	
+Ever wanted to speak as Spongebob? Donald Trump? Ellen Degeneres and more? Neither did we until we tried it :upside_down_face:	
 
 Simply speak into the microphone and out comes the same audio, only your voice is now that of your selected speaker.
 
