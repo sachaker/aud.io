@@ -24,7 +24,7 @@ It can learn new output with a day of training and is robust to pretty much any 
 
 ## Infographic
 
-<img src="https://github.com/sachaker/aud.io/blob/master/data/img/aud.io%20infographic.png" width="75%">
+<img src="https://github.com/sachaker/aud.io/blob/master/data/img/infographic.png" width="75%">
 
 
 ## Authors
