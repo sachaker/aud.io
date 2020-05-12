@@ -31,7 +31,7 @@ It can learn new output with a day of training and is robust to pretty much any 
 - **Sacha McElligott** — [email](mailto:sacha@nyu.edusubject=[GitHub]%20Source%20Han%20Sans), [LinkedIn](https://www.linkedin.com/in/sacha-mcelligott-136a78a9/), [website](https://sachaker.github.io)
 
 
-> ##### Please note that the code in this repo is outdated and no longer being used. I am keeping the mechanics of this project pretty airtight for now.
+> ##### Please note that the code in this repo is outdated and no longer being used. I am keeping the mechanics of this project pretty airtight for now and am using this repo as a temporary landing page
 
 
 ## License
