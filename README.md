@@ -10,7 +10,7 @@
 
 aud.io is an automated system for speech-to-speech voice conversion. 
 
-Want to speak as Spongebob? Donald Trump? Ellen Degeneres and more? Look no further. You simply speak into the microphone and out comes the same audio, only your voice is now that of your selected speaker.
+Want to speak as Spongebob? Donald Trump? Ellen Degeneres and more? Neither did we until we tried it. You simply speak into the microphone and out comes the same audio, only your voice is now that of your selected speaker.
 
 It can learn new output with a day of training and is robust to pretty much any input you throw at it. Its technology is bordering on the frontier of what is out there and is certainly the only readily implementable platform for social purposes.
 
