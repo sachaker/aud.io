@@ -3,7 +3,7 @@
 <img src="https://github.com/sachaker/aud.io/blob/master/data/img/name.png" width="15%" margin="0 0 0 0">  
 
 
-> Competing in the online accelerator [Pioneer](https://pioneer.app) (aud.io is currently #10 in US West, #71 in Global)
+> Competing in the online accelerator [Pioneer](https://pioneer.app) (aud.io is currently #11 in US West, #75 in Global)
 
 
 ## Description
